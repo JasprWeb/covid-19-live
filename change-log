@@ -1,0 +1,13 @@
+Change Log
+
+## 4/26/20
+
+New Feautes:
+- Added a title 'Live Stat Tracker'
+
+Bug Fixes:
+- Fixed an issue where typing a letter would not work
+- Fixed an issue where auto complete did not work
+- Fixed issue where the number amount of cases were not showing correctly
+- Fixed map not showing up in counties
+- Fix where time would not show up if you were on a VPN / OVH
